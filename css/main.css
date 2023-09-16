@@ -1,7 +1,9 @@
-h1 {
+h1, h2 {
     text-align: center;
     color: blue;
 }
+
 body {
     font-size: 20px;
+    background-color: green;
 }
